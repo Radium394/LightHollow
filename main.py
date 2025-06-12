@@ -136,6 +136,10 @@ while True:
         print("Скриптинг")
     elif num == "2":
         print("Создать главного персонажа")
+    elif num == "4":
+        print("\nПривет, я IAmRadium. Я менеджер и создатель команды HILStory\nВ тг https://t.me/Radmir394\nУ нашей команды так же сть канала тг и вк https://t.me/HILStory_LP\nЯ не профессиональный программист, а любитель пописать что-то. Вы можете следить за разработкой в https://github.com/Radium394/LightHollow\nЯ не буду против если вы поможете с этим всем. Пишите мне в тг для связи")
+        print("\nНажмите любую клавишу для продолжения...\n")
+        keyboard.read_key()
     elif num == "0":
         settings()
     else:
